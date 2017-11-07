@@ -18,22 +18,53 @@ By mastering the objectives listed above, students will be able to put themselve
 ### Sessions
 
 * [Cold Outreach I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i.md) 
+
 * [BEE: Collaboration](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/collaborative_communication.md)
+
 * [FEE: Project Management/Collaboration](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_project_management_intro.md) 
 * [Feedback II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md) 
+
 * [Feedback III](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_iii.md)
+
 * [StrengthsFinder: Teamwork](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/teamwork_and_strengths.md)
+
 
 ### Deliverables
 In order to fulfill the requirements of module two, students will submit these deliverables:
 
 * Documentation of mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+
 * Reflection on agile practices/project management used in projects
+
 * Feedback II reflection: In-person feedback conversation
+
 * Feedback III reflection: Feedback implementation reflection & application of strengths to teams 
+
 * Gear Up-related reflections
 
-You'll submit all deliverables except for Gear Up reflections [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Gear Up reflections should be included in your module portfolio.
+
+You'll submit all deliverables except for Gear Up reflections [ here
+    
+Outreach and Networking
+
+    https://gist.github.com/MatthewArvidson/7f5126310905fca0747bd5641c69003e
+
+Agile
+
+    https://gist.github.com/MatthewArvidson/74067939c878ccff318cdbd0353a260e
+
+Feedback II
+
+    https://gist.github.com/MatthewArvidson/4b8d847002b06eeb198a1ab8b6f07e28
+
+Feedback III
+
+    https://gist.github.com/MatthewArvidson/249bb7e022edf6ae6443227362876f67
+
+GearUp Tragedy of the Commons
+
+    https://gist.github.com/MatthewArvidson/9b430942c22a6a3f335d76f81501e9e1
+](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Gear Up reflections should be included in your module portfolio.
 
 ### Gear Up Sessions
 
