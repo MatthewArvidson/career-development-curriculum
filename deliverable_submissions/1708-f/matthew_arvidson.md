@@ -16,6 +16,22 @@ Example: M1 FE Jessica Rodriguez
 
 
 
-All of my deliverables are in this link to my Gist.
+All of my deliverables are in these links to my Gists.
 
-https://gist.github.com/MatthewArvidson/4f984fc7d1daa2d6b9172bf29f517b66
+* Written reflection Agile
+
+* Agile Practices and Workflow*
+https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_and_leadership.md
+
+* Feedback II
+ 
+https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md
+
+
+* Working draft of professional story
+
+https://gist.github.com/MatthewArvidson/f48215d5e3a36db4a3539f20d46f7706
+
+* Outreach & Networking Plan for Module 3
+
+https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md
