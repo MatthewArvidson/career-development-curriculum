@@ -45,6 +45,10 @@ In order to fulfill the requirements of module two, students will submit these d
 
 You'll submit all deliverables except for Gear Up reflections [ here
     
+My Story
+
+    https://gist.github.com/MatthewArvidson/f48215d5e3a36db4a3539f20d46f7706
+    
 Outreach and Networking
 
     https://gist.github.com/MatthewArvidson/7f5126310905fca0747bd5641c69003e
@@ -57,17 +61,10 @@ Feedback II
 
     https://gist.github.com/MatthewArvidson/4b8d847002b06eeb198a1ab8b6f07e28
 
-Feedback III
-
-    https://gist.github.com/MatthewArvidson/249bb7e022edf6ae6443227362876f67
-
-GearUp Tragedy of the Commons
-
-    https://gist.github.com/MatthewArvidson/9b430942c22a6a3f335d76f81501e9e1
 ](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Gear Up reflections should be included in your module portfolio.
 
 ### Gear Up Sessions
 
 * Gear Up 1: Empathy & Privilege
 * Gear Up 2: Parable of the Polygon/Automation
-* Gear Up 3: Case Study with Mod 4
+* Gear Up 3: Case Study with Mod 4 (Net Neutrality)
